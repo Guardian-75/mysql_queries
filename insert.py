@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+
+#mysql queries
+#user input table name, column name, values ( like this 'Id=1', 'Mg Mg', 15)
+
 def main():
     def include():
         for a in arrList:
